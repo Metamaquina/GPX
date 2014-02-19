@@ -1,5 +1,5 @@
 # Declaration of variables
-CC = cc
+CC = g++
 CC_FLAGS = -w
 L_FLAGS = -lm
 
